@@ -1,6 +1,6 @@
 ### My Journal
 
-##Timeline
+## Timeline
 
 I started on Friday, October 28th. That day I saw that I could make my own mini keyboard, I registered and downloaded the programs. Then I opened KiCad and told myself that I would never do it (it was like flying a plane for the first time). Well, I had to overcome myself and started creating with it. At first it was terrible, but somehow I got over it.
 
