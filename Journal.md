@@ -24,3 +24,8 @@ A lot. (Just kidding. like I said, it was my first time doing this, so about 3 d
 ![image](https://github.com/mavory/MyKritaPad/blob/main/Trash/Sn%C3%ADmek%20obrazovky%202025-11-28%20225331.png?raw=true)
 
 Yes, this is my work... (I didn't even know what I was doing - that's the first day I've done it, so Friday 11/28)
+
+
+![image](https://github.com/mavory/MyKritaPad/blob/main/Trash/Sn%C3%ADmek%20obrazovky%202025-12-01%20120634.png?raw=true)
+
+Here I was thinking I would never learn.
