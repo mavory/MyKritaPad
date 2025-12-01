@@ -7,7 +7,7 @@ It includes 9 mechanical switches wired through 9 diodes, 12 SK6812 MINI-E RGB L
 - 9 mechanical keys  
 - 9x diodes for proper key isolation  
 - 10x SK6812 MINI-E addressable RGB LEDs  
-- 2x EC11 rotary encoders (A/B + switch)  
+- 2x EC11 rotary encoders
 - Powered by Seeed Studio XIAO RP2040  
 - Designed for use with KMK or custom firmware  
 
