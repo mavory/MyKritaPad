@@ -20,7 +20,7 @@ The PCB is designed in KiCad and includes:
 - XIAO RP2040 as the main controller  
 
 ### Schematic
-*(Insert schematic image here)*
+![image](https://github.com/mavory/MyKritaPad/blob/main/Trash/Sn%C3%ADmek%20obrazovky%202025-12-01%20135100.png?raw=true)
 
 ### PCB Layout
 (I know, it's terrible.)
