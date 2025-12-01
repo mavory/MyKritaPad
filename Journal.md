@@ -1,4 +1,4 @@
-### My Journal
+# My Journal
 
 ## Timeline
 
