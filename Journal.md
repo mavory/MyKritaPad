@@ -20,3 +20,7 @@ A lot. (Just kidding. like I said, it was my first time doing this, so about 3 d
 - The worst part: learning how to operate Fusion (I've never used it and it annoyed me that I couldn't just move the mouse and look at the 3d model, but then I found out that I could 😭)
 
 ## Some photos:
+
+![image](https://github.com/mavory/MyKritaPad/blob/main/Trash/Sn%C3%ADmek%20obrazovky%202025-11-28%20225331.png?raw=true)
+
+Yes, this is my work... (I didn't even know what I was doing)
