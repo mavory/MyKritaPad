@@ -54,3 +54,5 @@ The macropad can be programmed using KMK,... or any custom RP2040 firmware.
 
 ## Notes
 This macropad is made as part of the Hack Club Hackpad program! ✨
+
+It all took me over 2 days of work because it was my first time doing this, but I somehow learned it and hopefully everything will be correct! It was a big ride and at first I thought I wouldn't be able to do it at all when I first opened KiCad 😭.
