@@ -39,7 +39,7 @@ The macropad can be programmed using KMK,... or any custom RP2040 firmware.
 
 ### Custom Components
 - 1x Custom PCB  
-- 1x 3D printed case (top, bottom)
+- 1x 3D printed case (top, bottom - Black)
 - 9x keycaps  
 
 ### COTS Components
