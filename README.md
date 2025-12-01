@@ -23,7 +23,7 @@ The PCB is designed in KiCad and includes:
 *(Insert schematic image here)*
 
 ### PCB Layout
-https://github.com/mavory/MyKritaPad/blob/main/Trash/Sn%C3%ADmek%20obrazovky%202025-12-01%20133912.png?raw=true
+![image](https://github.com/mavory/MyKritaPad/blob/main/Trash/Sn%C3%ADmek%20obrazovky%202025-12-01%20133912.png?raw=true)
 
 ## Firmware
 The macropad can be programmed using KMK,... or any custom RP2040 firmware.  
