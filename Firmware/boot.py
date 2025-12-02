@@ -1,6 +1,3 @@
-# boot.py
-# Minimalni konfigurace pro KMK/CircuitPython
-
 import usb_hid
 
 # Umozni desce hlasit se pocitaci jako:
