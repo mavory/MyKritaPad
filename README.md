@@ -18,7 +18,7 @@ Then on December 1st I overcame myself and spent the whole day at the computer t
 ## Features
 - 9 mechanical keys  
 - 9x diodes for proper key isolation  
-- 10x SK6812 MINI-E addressable RGB LEDs  
+- 12x SK6812 MINI-E addressable RGB LEDs  
 - 2x EC11 rotary encoders
 - Powered by Seeed Studio XIAO RP2040  
 - Designed for use with KMK or custom firmware  
