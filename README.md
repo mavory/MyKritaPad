@@ -38,9 +38,9 @@ The PCB is designed in KiCad and includes:
 ### PCB Layout
 (I know, it's terrible.)
 
-![image](https://github.com/mavory/MyKritaPad/blob/main/Trash/Sn%C3%ADmek%20obrazovky%202025-12-01%20133912.png?raw=true)
+![image](https://github.com/mavory/MyKritaPad/blob/main/Trash/SNIMEK.png?raw=true)
 
-![image](https://github.com/mavory/MyKritaPad/blob/main/Trash/Sn%C3%ADmek%20obrazovky%202025-12-02%20151355.png?raw=true)
+![image](https://github.com/mavory/MyKritaPad/blob/main/Trash/Sn%C3%ADmek%20obrazovky%202025-12-04%20124409.png?raw=true)
 
 ### Top view
 
