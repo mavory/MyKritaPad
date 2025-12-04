@@ -1,4 +1,4 @@
-<img width="1201" height="702" alt="image" src="https://github.com/user-attachments/assets/1e705509-47e1-4126-a50b-051a6568cc10" /># MyKritaPad
+# MyKritaPad
 
 MyKritaPad is a custom 9-key macropad powered by a Seeed Studio XIAO RP2040!
 It includes 9 mechanical switches wired through 9 diodes, 12 SK6812 MINI-E RGB LEDs for backlighting, and two EC11 rotary encoders for additional input control. ⭐
