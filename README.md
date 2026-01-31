@@ -1,7 +1,7 @@
 # MyKritaPad
 
 MyKritaPad is a custom 9-key macropad powered by a Seeed Studio XIAO RP2040!
-It includes 9 mechanical switches wired through 9 diodes, 12 SK6812 MINI-E RGB LEDs for backlighting, and two EC11 rotary encoders for additional input control. ⭐
+It includes 9 mechanical switches wired through 9 diodes and two EC11 rotary encoders for additional input control. ⭐
 
 ![image](https://blueprint.hackclub.com/user-attachments/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6OTU5NDEsInB1ciI6ImJsb2JfaWQifX0=--2b2ef814410f4700438e1776cbebd5660c242585/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fbGltaXQiOlsyMDAwLDIwMDBdLCJjb252ZXJ0Ijoid2VicCIsInNhdmVyIjp7InF1YWxpdHkiOjgwLCJzdHJpcCI6dHJ1ZX19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--15ca3815f01a5683e19ea0585d2eef9af9e441d7/20260131_233015.jpg)
 
@@ -20,7 +20,7 @@ Then on December 1st I overcame myself and spent the whole day at the computer t
 ## Features
 - 9 mechanical keys  
 - 9x diodes for proper key isolation  
-- 12x SK6812 MINI-E addressable RGB LEDs  
+- 12x SK6812 MINI-E addressable RGB LEDs (RGB LEDs unfortunately I had a bad footprint and because of that my neopixels don't work)  
 - 2x EC11 rotary encoders
 - Powered by Seeed Studio XIAO RP2040  
 - Designed for use with KMK or custom firmware  
@@ -29,7 +29,7 @@ Then on December 1st I overcame myself and spent the whole day at the computer t
 The PCB is designed in KiCad and includes:
 - 9 key switch footprints  
 - diode matrix wiring  
-- daisy-chained SK6812 MINI-E LEDs (RGB LEDs unfortunately I had a bad footprint and because of that my neopixels don't work)  
+- daisy-chained SK6812 MINI-E LEDs 
 - pins for two rotary encoders  
 - XIAO RP2040 as the main controller  
 
