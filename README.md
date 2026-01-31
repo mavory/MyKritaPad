@@ -3,6 +3,8 @@
 MyKritaPad is a custom 9-key macropad powered by a Seeed Studio XIAO RP2040!
 It includes 9 mechanical switches wired through 9 diodes, 12 SK6812 MINI-E RGB LEDs for backlighting, and two EC11 rotary encoders for additional input control. ⭐
 
+![image](https://blueprint.hackclub.com/user-attachments/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6OTU5NDEsInB1ciI6ImJsb2JfaWQifX0=--2b2ef814410f4700438e1776cbebd5660c242585/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fbGltaXQiOlsyMDAwLDIwMDBdLCJjb252ZXJ0Ijoid2VicCIsInNhdmVyIjp7InF1YWxpdHkiOjgwLCJzdHJpcCI6dHJ1ZX19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--15ca3815f01a5683e19ea0585d2eef9af9e441d7/20260131_233015.jpg)
+
 ## Why did I do this?
 
 I wanted to try something completely new that I had never done before. I was very interested in how everyone can create their own mini keyboard, so I tried it too.
