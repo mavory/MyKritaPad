@@ -29,7 +29,7 @@ Then on December 1st I overcame myself and spent the whole day at the computer t
 The PCB is designed in KiCad and includes:
 - 9 key switch footprints  
 - diode matrix wiring  
-- daisy-chained SK6812 MINI-E LEDs  
+- daisy-chained SK6812 MINI-E LEDs (RGB LEDs unfortunately I had a bad footprint and because of that my neopixels don't work)  
 - pins for two rotary encoders  
 - XIAO RP2040 as the main controller  
 
